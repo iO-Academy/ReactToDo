@@ -25,4 +25,5 @@ yarn-error.log*
 
 #custom
 .idea
+.idea/*
 .DS_Store
